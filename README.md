@@ -548,4 +548,83 @@ Tecnologia capaz de gerar textos, imagens, códigos e outros conteúdos a partir
 Quando utilizada corretamente, pode acelerar estudos, pesquisas e processos de aprendizagem.
 
 
+## Curadoria e Fontes Utilizadas
+
+Para construir este projeto, foi realizada uma pesquisa utilizando Inteligência Artificial como ferramenta de apoio à investigação, organização e análise de informações.
+
+As fontes selecionadas foram escolhidas com o objetivo de fornecer uma visão equilibrada entre:
+
+* Mercado de trabalho;
+* Trilhas de aprendizagem;
+* Linguagens e tecnologias;
+* Construção de portfólio;
+* Plataformas de ensino;
+* Experiências da comunidade de desenvolvedores.
+
+As referências foram agrupadas em categorias para facilitar a consulta e a compreensão dos temas estudados.
+
+### Tendências de Frameworks e Tecnologias
+
+Fontes utilizadas para compreender quais tecnologias possuem relevância no mercado atual e quais tendências podem impactar o desenvolvimento de carreira nos próximos anos.
+
+* 10 Frameworks que vão dominar 2026 e quando usá-los
+* Node.js vs Python vs Java: Which Backend Should You Learn in 2026?
+* Node.js vs Python vs Java: Which Backend to Learn in 2026
+* Node.js vs. Java: Choosing Perfect Technology
+
+### Projetos Práticos e Construção de Portfólio
+
+Fontes utilizadas para identificar quais projetos podem acelerar o aprendizado e demonstrar competências práticas para recrutadores.
+
+* 20 Backend Project Ideas to take you from Beginner to Pro
+* Back End Projects List
+* Portfolio Ideas (GitHub Topics)
+
+### Plataformas de Ensino e Aprendizagem
+
+Fontes utilizadas para comparar diferentes caminhos de formação e identificar recursos educacionais acessíveis para iniciantes.
+
+* DIO.me
+* Alura
+* Curso em Vídeo
+* freeCodeCamp
+* Escola Virtual.Gov
+* Fundação Bradesco
+* Rocketseat
+* EBAC
+* Coursera
+* edX
+* Udemy
+
+Também foram analisados conteúdos relacionados a planos de assinatura, experiências de usuários e avaliações independentes das plataformas.
+
+### Mercado de Trabalho e Comunidade
+
+Fontes utilizadas para compreender oportunidades profissionais, expectativas salariais e opiniões da comunidade técnica.
+
+* Mercado de trabalho para desenvolvedores em 2026
+* Discussões da comunidade Backend no Reddit
+* Relatórios e análises sobre demanda de profissionais de tecnologia
+
+### Critérios de Seleção das Fontes
+
+As fontes foram selecionadas considerando os seguintes critérios:
+
+* Atualidade das informações;
+* Relevância para iniciantes;
+* Aplicabilidade prática;
+* Credibilidade da plataforma ou autor;
+* Alinhamento com o objetivo da pesquisa.
+
+### Conclusão da Pesquisa Bibliográfica
+
+A análise conjunta das referências permitiu identificar padrões consistentes entre especialistas, profissionais do mercado e plataformas educacionais.
+
+Entre as principais conclusões encontradas destacam-se:
+
+* A importância de construir projetos práticos desde o início dos estudos;
+* A necessidade de focar em uma trilha principal antes de expandir conhecimentos;
+* O valor crescente da Inteligência Artificial como ferramenta de produtividade e aprendizagem;
+* A relevância de manter um portfólio ativo no GitHub;
+* A importância da aprendizagem contínua para evolução profissional na área de tecnologia.
 
