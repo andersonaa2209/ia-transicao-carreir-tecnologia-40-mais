@@ -2,6 +2,25 @@
 Um projeto para ajudar a todos que tem o interesse por áreas na tecnologia e não sabem nem ao menos por onde começar a pesquisar sobre o assunto.
 
 
+
+## Sumário
+
+- [Contexto e Objetivo](#contexto-e-objetivo)
+- [Engenharia de Prompts](#engenharia-de-prompts)
+- [Lições Aprendidas](#lições-aprendidas)
+- [Autoavaliação](#autoavaliação)
+- [Mini Guia de Estudos](#mini-guia-de-estudos)
+- [Glossário](#glossário)
+- [Curadoria e Fontes](#curadoria-e-fontes-utilizadas)
+- [Biblioteca de Prompts](#biblioteca-de-prompts-reutilizáveis)
+- [Conclusão](#conclusão)
+- [Próximos Passos](#próximos-passos)
+- [Sobre o Autor](#sobre-o-autor)
+
+
+
+
+
 # Como Utilizar Inteligência Artificial para Planejar uma Transição de Carreira para Tecnologia Após os 40 Anos
 
 ## Introdução
