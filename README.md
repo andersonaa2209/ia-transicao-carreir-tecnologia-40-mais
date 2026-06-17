@@ -233,3 +233,54 @@ Com orientação adequada, organização dos estudos, prática constante e utili
 
 Também ficou evidente que a clareza de direção é tão importante quanto a dedicação. Antes de estudar qualquer tecnologia, é fundamental compreender os objetivos profissionais e construir um plano de desenvolvimento compatível com a realidade de cada pessoa.
 
+
+## Autoavaliação de Perfil para Iniciantes em Tecnologia
+
+Durante a pesquisa, uma das maiores dúvidas encontradas foi:
+
+> "Como saber se programação realmente combina comigo?"
+
+Embora não exista um teste capaz de prever o sucesso de uma pessoa na área, algumas características podem facilitar a adaptação ao processo de aprendizagem e ao trabalho em tecnologia.
+
+Responda às perguntas abaixo com sinceridade:
+
+### Curiosidade
+
+* Você gosta de entender como as coisas funcionam?
+* Quando encontra um problema, sente vontade de investigar a causa?
+
+### Persistência
+
+* Você consegue continuar tentando resolver algo mesmo após vários erros?
+* Costuma abandonar projetos rapidamente ou insiste até encontrar uma solução?
+
+### Aprendizado Contínuo
+
+* Você gosta de aprender assuntos novos?
+* Consegue estudar sozinho utilizando vídeos, livros ou documentação?
+
+### Resolução de Problemas
+
+* Você gosta de encontrar soluções para situações complexas?
+* Sente satisfação quando consegue resolver algo que parecia difícil?
+
+### Tecnologia
+
+* Você possui interesse natural por computadores, aplicativos, sistemas ou equipamentos eletrônicos?
+* Costuma explorar ferramentas novas por curiosidade?
+
+### Adaptação
+
+* Você aceita que precisará aprender continuamente durante toda a carreira?
+* Consegue lidar com a sensação de não saber algo sem desistir imediatamente?
+
+### Interpretação dos Resultados
+
+Se a maioria das respostas foi positiva, existe uma boa probabilidade de que você consiga se adaptar ao aprendizado de tecnologia.
+
+É importante lembrar que talento inicial raramente é o fator decisivo. Na maioria dos casos, consistência, curiosidade e persistência possuem um impacto muito maior no longo prazo.
+
+A tecnologia não exige perfeição. Ela exige disposição para aprender, praticar, errar, corrigir e evoluir continuamente.
+
+
+
