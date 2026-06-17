@@ -745,3 +745,40 @@ Uma das principais conclusões deste projeto é que a Inteligência Artificial n
 Mais do que encontrar respostas, este projeto demonstrou a importância de aprender a fazer perguntas melhores.
 
 E foi justamente esse processo que transformou uma situação inicial de incerteza em um plano concreto de desenvolvimento profissional.
+
+## Próximos Passos
+
+A pesquisa realizada neste projeto não representa um ponto final, mas sim o início de uma jornada de desenvolvimento profissional.
+
+Com base nos aprendizados obtidos, os próximos passos definidos são:
+
+### Curto Prazo
+
+* Consolidar fundamentos de lógica de programação.
+* Aprimorar conhecimentos em Python.
+* Desenvolver projetos práticos para portfólio.
+* Fortalecer o uso de Git e GitHub.
+* Concluir formações e bootcamps em andamento.
+
+### Médio Prazo
+
+* Aprender banco de dados e SQL.
+* Construir APIs mais completas.
+* Desenvolver aplicações com maior nível de complexidade.
+* Expandir conhecimentos em backend.
+* Criar projetos que simulem situações reais de mercado.
+
+### Longo Prazo
+
+* Conquistar a primeira oportunidade profissional na área de tecnologia.
+* Evoluir continuamente através de projetos práticos.
+* Especializar-se em áreas alinhadas ao perfil e aos objetivos de carreira.
+* Utilizar Inteligência Artificial como ferramenta permanente de produtividade e aprendizado.
+
+### Compromisso Pessoal
+
+O principal aprendizado desta jornada foi compreender que progresso consistente supera perfeição.
+
+O objetivo não é aprender tudo rapidamente, mas continuar avançando de forma contínua, transformando conhecimento em experiência prática e construindo uma carreira sustentável no longo prazo.
+
+
