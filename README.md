@@ -415,3 +415,137 @@ O mais importante é manter consistência, continuar praticando e evitar a armad
 
 A tecnologia recompensa quem aprende, pratica e evolui continuamente.
 
+
+## Glossário para Iniciantes em Tecnologia
+
+Durante a pesquisa ficou evidente que muitos iniciantes abandonam os estudos não pela dificuldade da programação em si, mas pela quantidade de termos desconhecidos encontrados diariamente.
+
+Este glossário reúne alguns dos conceitos mais importantes para quem está começando.
+
+### Algoritmo
+
+Sequência de passos utilizada para resolver um problema ou executar uma tarefa.
+
+Exemplo: uma receita de bolo pode ser considerada um algoritmo.
+
+---
+
+### Backend
+
+Parte do sistema responsável pelas regras de negócio, processamento de dados e comunicação com bancos de dados.
+
+É a área que funciona "por trás dos bastidores".
+
+---
+
+### Frontend
+
+Parte visual de uma aplicação.
+
+É tudo aquilo que o usuário vê e com o que interage.
+
+---
+
+### Full Stack
+
+Profissional capaz de atuar tanto no Frontend quanto no Backend.
+
+---
+
+### Linguagem de Programação
+
+Ferramenta utilizada para escrever instruções que o computador consegue executar.
+
+Exemplos:
+
+* Python
+* JavaScript
+* Java
+* C#
+* TypeScript
+
+---
+
+### Framework
+
+Conjunto de ferramentas e estruturas prontas que aceleram o desenvolvimento de aplicações.
+
+Exemplos:
+
+* Django
+* FastAPI
+* React
+* NestJS
+
+---
+
+### API
+
+Conjunto de regras que permite que diferentes sistemas se comuniquem entre si.
+
+Exemplo:
+
+Um aplicativo de previsão do tempo consulta uma API para obter informações meteorológicas.
+
+---
+
+### Banco de Dados
+
+Sistema utilizado para armazenar e organizar informações.
+
+Exemplos:
+
+* MySQL
+* PostgreSQL
+* SQLite
+
+---
+
+### Git
+
+Sistema de controle de versões utilizado para acompanhar alterações em projetos.
+
+---
+
+### GitHub
+
+Plataforma que permite armazenar projetos Git, compartilhar código e construir portfólios profissionais.
+
+---
+
+### Commit
+
+Registro de uma alteração realizada no projeto.
+
+Funciona como um "ponto de salvamento" que documenta a evolução do trabalho.
+
+---
+
+### Branch
+
+Ramificação de desenvolvimento utilizada para testar alterações sem afetar a versão principal do projeto.
+
+---
+
+### Deploy
+
+Processo de disponibilizar uma aplicação para que outras pessoas possam utilizá-la.
+
+---
+
+### Portfólio
+
+Coleção de projetos que demonstra as habilidades práticas de um profissional.
+
+Na área de tecnologia, normalmente é hospedado no GitHub.
+
+---
+
+### Inteligência Artificial Generativa
+
+Tecnologia capaz de gerar textos, imagens, códigos e outros conteúdos a partir de instruções fornecidas pelo usuário.
+
+Quando utilizada corretamente, pode acelerar estudos, pesquisas e processos de aprendizagem.
+
+
+
