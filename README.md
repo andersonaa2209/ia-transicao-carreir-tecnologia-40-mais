@@ -203,3 +203,33 @@ Durante o processo, ficou evidente que a qualidade das respostas está diretamen
 Quanto mais contexto, objetivos e restrições foram adicionados aos prompts, mais úteis e específicas se tornaram as respostas fornecidas pelas ferramentas de IA.
 
 Esse processo transformou a Inteligência Artificial de uma simples ferramenta de consulta em uma ferramenta de apoio à tomada de decisões e organização do aprendizado.
+
+
+## Lições Aprendidas Durante a Pesquisa
+
+Ao iniciar esta pesquisa, eu possuía mais dúvidas do que respostas sobre a área de tecnologia. Como muitos profissionais em transição de carreira, acreditava que a principal dificuldade seria aprender uma linguagem de programação. No entanto, ao longo da investigação, percebi que os desafios e oportunidades eram muito mais amplos.
+
+### O que eu acreditava antes da pesquisa
+
+* Bastava aprender uma linguagem de programação para conseguir uma vaga.
+* Existia um único caminho correto para entrar na área.
+* Os profissionais mais jovens possuíam uma vantagem impossível de superar.
+* Era necessário memorizar grandes quantidades de informação para se tornar desenvolvedor.
+* A Inteligência Artificial poderia substituir parte importante do aprendizado.
+
+### O que descobri durante a pesquisa
+
+* Linguagens são apenas ferramentas; o mais importante é desenvolver lógica, resolução de problemas e capacidade de aprendizado contínuo.
+* Existem diversas trilhas de carreira possíveis dentro da tecnologia, cada uma com características e demandas diferentes.
+* Experiência de vida, disciplina e capacidade de resolver problemas reais também possuem valor no mercado.
+* Programação é muito mais sobre compreender conceitos do que decorar códigos.
+* A Inteligência Artificial não substitui o estudo, mas pode acelerar significativamente a aprendizagem quando utilizada de forma estratégica.
+
+### Principais Conclusões
+
+A maior descoberta desta pesquisa foi perceber que a tecnologia não é um caminho reservado apenas para gênios ou para pessoas que começaram a programar ainda na adolescência.
+
+Com orientação adequada, organização dos estudos, prática constante e utilização inteligente das ferramentas disponíveis, é possível construir uma transição de carreira estruturada mesmo iniciando após os 40 anos.
+
+Também ficou evidente que a clareza de direção é tão importante quanto a dedicação. Antes de estudar qualquer tecnologia, é fundamental compreender os objetivos profissionais e construir um plano de desenvolvimento compatível com a realidade de cada pessoa.
+
