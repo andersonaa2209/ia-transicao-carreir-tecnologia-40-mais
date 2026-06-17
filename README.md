@@ -628,3 +628,103 @@ Entre as principais conclusões encontradas destacam-se:
 * A relevância de manter um portfólio ativo no GitHub;
 * A importância da aprendizagem contínua para evolução profissional na área de tecnologia.
 
+## Biblioteca de Prompts Reutilizáveis
+
+Durante a pesquisa, alguns prompts demonstraram grande eficácia para organizar informações, reduzir dúvidas e criar direcionamento profissional.
+
+A seguir estão exemplos de prompts que podem ser reutilizados por outras pessoas em situações semelhantes.
+
+### Descoberta de Carreira
+
+```text
+Tenho 40 anos e desejo migrar para a área de tecnologia.
+
+Com base nas minhas experiências profissionais anteriores, habilidades comportamentais e interesses pessoais, identifique quais áreas da tecnologia possuem maior compatibilidade com meu perfil.
+
+Explique os motivos de cada recomendação.
+```
+
+### Entendimento do Mercado
+
+```text
+Explique as principais áreas da tecnologia para um iniciante absoluto.
+
+Compare Backend, Frontend, Full Stack, Dados, Inteligência Artificial e Cybersegurança.
+
+Explique vantagens, desvantagens e perspectivas de mercado de cada uma delas.
+```
+
+### Construção de Plano de Estudos
+
+```text
+Crie um plano de estudos realista para alguém que possui 4 a 6 horas diárias disponíveis para estudar tecnologia.
+
+Divida o plano por etapas, indicando prioridades, projetos práticos e habilidades necessárias para conquistar a primeira vaga.
+```
+
+### Escolha de Linguagem
+
+```text
+Compare Python, JavaScript, TypeScript, Java e C# para um iniciante.
+
+Considere facilidade de aprendizado, mercado de trabalho, oportunidades para iniciantes e potencial de crescimento profissional.
+```
+
+### Avaliação de Perfil
+
+```text
+Com base nas características abaixo, analise quais áreas da tecnologia possuem maior compatibilidade com meu perfil.
+
+Características:
+- Curiosidade elevada
+- Perfil investigativo
+- Persistência
+- Interesse por resolução de problemas
+- Facilidade com tecnologia
+- Interesse em automação e sistemas
+```
+
+### Construção de Portfólio
+
+```text
+Crie uma sequência de projetos que permitam a um iniciante construir um portfólio progressivo no GitHub.
+
+Os projetos devem evoluir do nível básico ao intermediário e demonstrar habilidades valorizadas pelo mercado.
+```
+
+### Utilização de IA para Aprendizagem
+
+```text
+Atue como um mentor técnico.
+
+Não entregue respostas prontas imediatamente.
+
+Ajude-me a desenvolver raciocínio lógico através de perguntas, desafios, exemplos e explicações progressivas.
+
+Priorize aprendizado em vez de apenas fornecer soluções.
+```
+
+### Pesquisa de Mercado
+
+```text
+Pesquise tendências atuais do mercado de tecnologia e identifique quais habilidades possuem maior demanda para profissionais iniciantes.
+
+Apresente dados, justificativas e recomendações práticas.
+```
+
+### Aprendizado com Projetos
+
+```text
+Crie um projeto prático que me permita aprender programação através da construção de uma solução real.
+
+Divida o projeto em etapas progressivas e explique quais conceitos serão desenvolvidos em cada fase.
+```
+
+### Reflexão Final
+
+Os melhores resultados foram obtidos quando os prompts forneceram contexto, objetivos claros e informações sobre a realidade do usuário.
+
+A qualidade das respostas geradas pela Inteligência Artificial aumentou significativamente conforme as perguntas se tornaram mais específicas e detalhadas.
+
+```
+```
