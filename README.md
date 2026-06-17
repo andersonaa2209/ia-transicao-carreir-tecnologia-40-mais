@@ -61,3 +61,145 @@ Foi nesse contexto que decidi utilizar ferramentas de Inteligência Artificial c
 O objetivo deste projeto é demonstrar como a Inteligência Artificial pode ser utilizada como uma ferramenta prática para auxiliar profissionais em processos de transição de carreira, especialmente aqueles que desejam ingressar na área de tecnologia após os 40 anos. Mais do que buscar respostas prontas, a proposta foi utilizar a IA para acelerar a pesquisa, organizar conhecimento e transformar um cenário de dúvidas e excesso de informações em um plano estruturado de aprendizado e evolução profissional.
 
 Ao final deste trabalho, apresento as fontes pesquisadas, os prompts utilizados, os aprendizados obtidos e um mini guia que pode servir como ponto de partida para outras pessoas que estejam vivendo desafios semelhantes.
+
+
+## Contexto e Objetivo
+
+A transição de carreira para a área de tecnologia tornou-se uma alternativa cada vez mais considerada por profissionais de diferentes setores. Entretanto, para pessoas acima dos 40 anos, esse processo costuma ser acompanhado por dúvidas, inseguranças e excesso de informações conflitantes.
+
+Ao iniciar minha própria jornada de transição, encontrei centenas de cursos, dezenas de linguagens de programação, diferentes opiniões sobre mercado de trabalho e múltiplas possibilidades de carreira. Embora a quantidade de informação disponível seja enorme, encontrar um direcionamento claro para começar mostrou-se um desafio significativo.
+
+Diante desse cenário, este projeto tem como objetivo investigar como ferramentas de Inteligência Artificial podem auxiliar na organização do conhecimento, na análise de informações e na construção de um plano estruturado para ingressar na área de tecnologia.
+
+### Público-Alvo
+
+* Profissionais em transição de carreira.
+* Pessoas acima dos 40 anos interessadas em tecnologia.
+* Iniciantes que não sabem por onde começar seus estudos.
+* Pessoas que desejam utilizar Inteligência Artificial como ferramenta de aprendizagem.
+
+### Objetivo Geral
+
+Demonstrar como a Inteligência Artificial pode ser utilizada para transformar um cenário de dúvidas e excesso de informações em um plano estruturado de desenvolvimento profissional.
+
+### Objetivos Específicos
+
+* Identificar as principais dúvidas de quem deseja ingressar na tecnologia após os 40 anos.
+* Utilizar ferramentas de IA para pesquisar e organizar informações relevantes.
+* Comparar diferentes caminhos de aprendizagem e desenvolvimento profissional.
+* Criar um guia prático para auxiliar futuras transições de carreira.
+* Compartilhar prompts reutilizáveis para acelerar pesquisas semelhantes.
+
+### Resultado Esperado
+
+Ao final do projeto, espera-se apresentar um guia organizado contendo fontes de pesquisa, aprendizados obtidos, exemplos de prompts e recomendações práticas que possam auxiliar outras pessoas a iniciarem sua jornada na área de tecnologia com maior clareza e confiança.
+
+
+## Engenharia de Prompts e Processo de Pesquisa
+
+Uma das principais vantagens das ferramentas de Inteligência Artificial utilizadas neste projeto foi a possibilidade de transformar dúvidas amplas em perguntas cada vez mais específicas e estratégicas.
+
+Durante a pesquisa, os prompts foram refinados progressivamente, permitindo obter respostas mais úteis e alinhadas aos objetivos da transição de carreira.
+
+### Contexto Inicial
+
+O ponto de partida foi a necessidade de compreender como um profissional de 40 anos, sem experiência prévia em desenvolvimento de software, poderia ingressar no mercado de tecnologia de forma realista e estruturada.
+
+### Principais Categorias de Perguntas
+
+#### 1. Entendendo o Mercado
+
+Prompt:
+
+> Tenho 40 anos, estou desempregado e quero migrar para tecnologia. O que preciso conhecer sobre a área antes de iniciar essa transição?
+
+Objetivo:
+
+- Compreender o mercado.
+- Identificar oportunidades.
+- Conhecer os desafios reais da profissão.
+
+#### 2. Escolha da Trilha
+
+Prompt:
+
+> Quais linguagens devo estudar e por quê? Qual área da tecnologia possui maior compatibilidade com minhas características e objetivos profissionais?
+
+Objetivo:
+
+- Escolher uma direção.
+- Evitar estudar sem planejamento.
+
+#### 3. Formação e Estudos
+
+Prompt:
+
+> Quais plataformas, escolas ou cursos oferecem uma formação alinhada às exigências atuais do mercado?
+
+Objetivo:
+
+- Encontrar recursos de qualidade.
+- Comparar diferentes alternativas de aprendizagem.
+
+#### 4. Planejamento de Carreira
+
+Prompt:
+
+> Como criar um plano de estudos realista para conquistar a primeira vaga em tecnologia?
+
+Objetivo:
+
+- Transformar objetivos em ações práticas.
+- Criar metas alcançáveis.
+
+#### 5. Uso da Inteligência Artificial
+
+Prompt:
+
+> Como utilizar a IA como ferramenta de aprendizagem, pesquisa e organização do conhecimento?
+
+Objetivo:
+
+- Acelerar o aprendizado.
+- Melhorar a qualidade dos estudos.
+
+#### 6. Avaliação de Perfil
+
+Prompt:
+
+> Como descobrir se programação combina comigo?
+
+Objetivo:
+
+- Identificar pontos fortes.
+- Reduzir inseguranças.
+
+#### 7. Mercado de Trabalho
+
+Prompt:
+
+> Qual é um prazo realista para conquistar a primeira oportunidade profissional?
+
+Objetivo:
+
+- Ajustar expectativas.
+- Planejar a transição.
+
+#### 8. Construção de Portfólio
+
+Prompt:
+
+> Como construir um portfólio capaz de demonstrar minhas habilidades práticas?
+
+Objetivo:
+
+- Aumentar a empregabilidade.
+- Demonstrar conhecimento aplicado.
+
+### Aprendizados Obtidos
+
+Durante o processo, ficou evidente que a qualidade das respostas está diretamente relacionada à qualidade das perguntas formuladas.
+
+Quanto mais contexto, objetivos e restrições foram adicionados aos prompts, mais úteis e específicas se tornaram as respostas fornecidas pelas ferramentas de IA.
+
+Esse processo transformou a Inteligência Artificial de uma simples ferramenta de consulta em uma ferramenta de apoio à tomada de decisões e organização do aprendizado.
