@@ -781,4 +781,10 @@ O principal aprendizado desta jornada foi compreender que progresso consistente 
 
 O objetivo não é aprender tudo rapidamente, mas continuar avançando de forma contínua, transformando conhecimento em experiência prática e construindo uma carreira sustentável no longo prazo.
 
+## Sobre o Autor
 
+Sou um profissional em transição de carreira para a área de tecnologia após os 40 anos.
+
+Este projeto documenta parte da minha jornada de pesquisa, aprendizado e utilização da Inteligência Artificial como ferramenta de apoio na construção de uma nova carreira.
+
+Meu objetivo é demonstrar que dedicação, prática consistente e uso inteligente da tecnologia podem tornar possível uma mudança profissional mesmo para quem está começando mais tarde.
